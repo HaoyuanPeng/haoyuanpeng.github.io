@@ -2,96 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Haoyuan Peng - 彭浩源
     - name: Date of Birth
-      value: 14th March 1879
+      value: 7th July 1994
     - name: Languages
-      value: English, German
+      value: Chinese, Cantonese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master's degree, Computer Science
+      institution: Software School of Fudan University
+      year: 2015 - 2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Under the supervision of Prof. Zheng Xiaoqing, I studied state-of-the-art NLP research. Our research interests mainly lie in pre-training word embeddings and dependency parsing. Our works are published in AAAI-2017 and AAAI-2018.
+        - I participated in the development of FudanDNN-NLP, a deep learning-based natural language processing tool.
+        - I was awarded a postgraduate freshman scholarship in 2015.
+        - I was selected as an Outstanding Graduate in Shanghai in 2018.
+    - title: Bachelor's degree, Computer Software Engineering
+      institution: Software School of Fudan University
+      year: 2011 - 2015
       description:
-        - Description 1.
-        - Description 2.
+        - Under the supervision of Prof. Zheng Xiaoqing, I have been conducting research on natural language processing since 2013. Our work is published in IJCAI-2015.
+        - I was awarded the Third Prize of the Scholarship for OutStanding Students at Fudan University in the 2014-2015 academic year.
+        - I have participated in Fudan's Undergraduate Experiment and Practice Opportunities Program from 2013 to 2015 under the guidance of Prof. Zheng Xiaoqing, and passed the thesis defence.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior Algorithm Engineer
+      institution: Learnable.AI, Shanghai, China
+      year: 2023 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Engaging in applied research on the direction of K-12 auto-grading system. Transforming large language models (LLMs) and seq2seq models into read-world applications, such as translating arbitrary answers written by students in natural language into an internally defined formal language.Engaging in applied research on the direction of K-12 auto-grading system. Transforming large language models (LLMs) and seq2seq models into read-world applications, such as translating arbitrary answers written by students in natural language into an internally defined formal language.
+    - title: Senior Researcher
+      institution: Tencent, Shanghai, China
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Yunzhi Media AI Platform - Responsible for the text error correction, video labeling and key information extraction algorithms of multimodal content structuring in Tencent Yunzhi Media AI Platform, which has won the CCBN 2021 Product Innovation Excellence Award. The labeling algorithm I was responsible for won the 2nd place in the 2021 AIWIN Algorithm Technology Competition [2] without training with the competition training data.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Applied Researcher
+      institution: Tencent, Shanghai, China
+      year: 2018 - 2021
       description:
+        - Intelligent Public Opinion Analysis System - Responsible for the overall algorithm scheme and completed the development and optimization of multiple NLP algorithms. This product is customized for securities industry regulators.
+        - Tencent Cloud NLP Products - Responsible for the development of general text matching and Chinese spelling correction algorithms, which are deployed on Tencent Cloud and applied in several custom projects.
+        - Tencent TI-ONE ML Platform - Implemented multiple traditional ML algorithms and DL-based NLP algorithms on Tencent TI-ONE ML Platform for users to train models on their custom data.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Data Analyst Intern
+      institution: eBay, Shanghai, China
+      year: 2014 - 2015
 
-- title: Open Source Projects
-  type: time_table
+
+- title: Skills
+  type: list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - Following the cutting-edge research in the field of natural language processing. Experienced in publishing papers in top international academic conferences.
+    - Knowledge in full life cycle AI/ML with learning, inference, engineering and integration.
+    - Proficient in Python and able to write high-quality Python code.
+    - Familiar with mainstream deep learning frameworks, including pytorch, tensorflow 1.x and tensorflow 2.x.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Second Place of AIWIN 2021 Algorithm Technology Competition
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - Tencent New Code Culture Award - Award for outstanding internal open source code projects
+    - year: 2018
+      items:
+        - Outstanding Graduate in Shanghai
+    - year: 2015
+      items:
+        - Postgraduate Freshman Scholarship
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Natural Language Processing (NLP)
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Seq2seq translation
+        - Grammatical error correction - especially for OCR
+        - Dependency parsing
+    - title: Multimodal
       items:
-        - Description 1.
-        - Description 2.
+        - Document AI
+        - Information extraction from visual texts in videos
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Mountain climbing, scuba diving, Chinese chess
