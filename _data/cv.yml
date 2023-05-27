@@ -62,6 +62,11 @@
     - Proficient in Python and able to write high-quality Python code.
     - Familiar with mainstream deep learning frameworks, including pytorch, tensorflow 1.x and tensorflow 2.x.
 
+- title: Service
+  type: list
+  contents:
+    - <b>Conference Reviewer:</b> KDD-2023, ACL-2023
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -94,4 +99,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Mountain climbing, scuba diving, Chinese chess
+    - <b>Hobbies:</b> Mountain climbing, scuba diving, Chinese chess
