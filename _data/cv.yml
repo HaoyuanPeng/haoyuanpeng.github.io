@@ -7,6 +7,8 @@
       value: 7th July 1994
     - name: Languages
       value: Chinese, Cantonese, English
+    - name: Contact Information
+      value: penghy15@gmail.com
 
 - title: Education
   type: time_table
