@@ -5,10 +5,10 @@
       value: Haoyuan Peng - 彭浩源
     - name: Date of Birth
       value: 7th July 1994
-    - name: Languages
-      value: Chinese, Cantonese, English
-    - name: Contact Information
-      value: penghy15@gmail.com
+    - name: Email
+      value: phy_fdu@163.com
+    - name: Homepage
+      value: haoyuanpeng.github.io
 
 - title: Education
   type: time_table
@@ -90,15 +90,9 @@
   contents:
     - title: Natural Language Processing (NLP)
       items: 
-        - Seq2seq translation
+        - Seq2seq generation
         - Grammatical error correction - especially for OCR
-        - Dependency parsing
     - title: Multimodal
       items:
         - Document AI
         - Information extraction from visual texts in videos
-
-- title: Other Interests
-  type: list
-  contents:
-    - <b>Hobbies:</b> Mountain climbing, scuba diving, Chinese chess
