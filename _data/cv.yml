@@ -67,7 +67,8 @@
 - title: Service
   type: list
   contents:
-    - <b>Conference Reviewer:</b> KDD-2023, ACL-2023
+    - <b>Conference Reviewer:</b> KDD-2023
+    - <b>External Reviewer:</b> ACL-2023, ECAI-2023
 
 - title: Honors and Awards
   type: time_table
