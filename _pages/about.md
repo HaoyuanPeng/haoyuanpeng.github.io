@@ -23,3 +23,5 @@ I was a member of [Shanghai Key Laboratory of Intelligent Information Processing
 [Software School of Fudan University](https://software.fudan.edu.cn/), under supervision from Prof [Xiaoqing Zheng](https://faculty.fudan.edu.cn/zhengxq/zh_CN/).
 
 My major research interests are about natural language processing (NLP) and multimodal information extraction.
+
+My Zhihu Homepage is: [胡思乱想小工人](https://www.zhihu.com/people/peng-hao-yuan)
