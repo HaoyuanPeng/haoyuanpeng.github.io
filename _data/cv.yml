@@ -36,20 +36,21 @@
       institution: Learnable.AI, Shanghai, China
       year: 2023 - present
       description:
-        - Engaging in applied research on the direction of K-12 auto-grading system. Transforming large language models (LLMs) and seq2seq models into read-world applications, such as translating arbitrary answers written by students in natural language into an internally defined formal language.Engaging in applied research on the direction of K-12 auto-grading system. Transforming large language models (LLMs) and seq2seq models into read-world applications, such as translating arbitrary answers written by students in natural language into an internally defined formal language.
+        - Engaging in applied research on the direction of K-12 auto-grading system. Transforming large language models (LLMs) and seq2seq models into real-world applications, such as translating arbitrary answers written by students in natural language into an internally defined formal language.
     - title: Senior Researcher
       institution: Tencent, Shanghai, China
       year: 2021 - 2022
       description:
-        - Yunzhi Media AI Platform - Responsible for the text error correction, video labeling and key information extraction algorithms of multimodal content structuring in Tencent Yunzhi Media AI Platform, which has won the CCBN 2021 Product Innovation Excellence Award. The labeling algorithm I was responsible for won the 2nd place in the 2021 AIWIN Algorithm Technology Competition [2] without training with the competition training data.
+        - <b>Yunzhi Media AI Platform</b> - Responsible for the text error correction, video labeling and key information extraction algorithms of multimodal content structuring in Tencent Yunzhi Media AI Platform, which has won the <i>CCBN 2021 Product Innovation Excellence Award</i>. The labeling algorithm I was responsible for won the 2nd place in the <i>2021 AIWIN Algorithm Technology Competition</i> without training with the competition training data.
+        - <b>Text Censorship</b> - Developing a text censorship system for private project clients. The system contains models and policies, and can address adversarial user inputs.
 
     - title: Applied Researcher
       institution: Tencent, Shanghai, China
       year: 2018 - 2021
       description:
-        - Intelligent Public Opinion Analysis System - Responsible for the overall algorithm scheme and completed the development and optimization of multiple NLP algorithms. This product is customized for securities industry regulators.
-        - Tencent Cloud NLP Products - Responsible for the development of general text matching and Chinese spelling correction algorithms, which are deployed on Tencent Cloud and applied in several custom projects.
-        - Tencent TI-ONE ML Platform - Implemented multiple traditional ML algorithms and DL-based NLP algorithms on Tencent TI-ONE ML Platform for users to train models on their custom data.
+        - <b>Intelligent Public Opinion Analysis System</b> - Responsible for the overall algorithm scheme and completed the development and optimization of multiple NLP algorithms. This product is customized for securities industry regulators.
+        - <b>Tencent Cloud NLP Products</b> - Responsible for the development of general text matching and Chinese spelling correction algorithms, which are deployed on Tencent Cloud and applied in several custom projects.
+        - <b>Tencent TI-ONE ML Platform</b> - Implemented multiple traditional ML algorithms and deep learning based NLP algorithms on Tencent TI-ONE ML Platform for users to train models on their custom data.
 
     - title: Data Analyst Intern
       institution: eBay, Shanghai, China
@@ -86,14 +87,41 @@
       items:
         - Postgraduate Freshman Scholarship
 
-- title: Academic Interests
-  type: nested_list
+- title: Publications
+  type: time_table
   contents:
-    - title: Natural Language Processing (NLP)
-      items: 
-        - Seq2seq generation
-        - Grammatical error correction - especially for OCR
-    - title: Multimodal
-      items:
-        - Document AI
-        - Information extraction from visual texts in videos
+    - title: "OSAN: A One-Stage Alignment Network To Unify Multimodal Alignment and Unsupervised Domain Adaptation"
+      year: 2023
+      institution: >
+        Liu, Ye and Qiao, Lingfeng and Lu, Changchong and Yin, Di and Lin, Chen and <b>Peng, Haoyuan</b> and Ren, Bo.
+        <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).</i>
+    - title: "Grafting Pre-trained Models for Multimodal Headline Generation"
+      year: 2022
+      institution: >
+        Qiao, Lingfeng  and Wu, Chen  and Liu, Ye  and <b>Peng, Haoyuan</b> and Yin, Di  and Ren, Bo.
+        <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing: Industry Track.</i>
+    - title: "Detecting Abnormal Start-Ups, Unusual Resource Consumptions of the Smart Phone: A Deep Learning Approach"
+      year: 2019
+      institution: >
+        ZHENG, Xiaoqing and LU, Yaping and <b>PENG, Haoyuan</b> and FENG, Jiangtao and ZHOU, Yi and JIANG, Min and MA, Li and ZHANG, Ji and JI, Jie.
+        <i>ZTE Communications.</i>
+    - title: "Attention-based belief or disbelief feature extraction for dependency parsing"
+      year: 2018
+      institution: >
+        <b>Peng, Haoyuan</b> and Liu, Lu and Zhou, Yi and Zhou, Junying and Zheng, Xiaoqing.
+        <i>Proceedings of the AAAI Conference on Artificial Intelligence.</i>
+    - title: "RNN-based sequence-preserved attention for dependency parsing"
+      year: 2018
+      institution: >
+        Zhou, Yi and Zhou, Junying and Liu, Lu and Feng, Jiangtao and <b>Peng, Haoyuan</b> and Zheng, Xiaoqing.
+        <i>Proceedings of the AAAI Conference on Artificial Intelligence.</i>
+    - title: "Learning context-specific word/character embeddings"
+      year: 2017
+      institution: >
+        Zheng, Xiaoqing and Feng, Jiangtao and Chen, Yi and <b>Peng, Haoyuan</b> and Zhang, Wenqing.
+        <i>Proceedings of the AAAI Conference on Artificial Intelligence.</i>
+    - title: "Character-based parsing with convolutional neural network"
+      year: 2015
+      institution: >
+        Zheng, Xiaoqing and <b>Peng, Haoyuan</b> and Chen, Yi and Zhang, Pengjing and Zhang, Wenqiang.
+        <i>Twenty-Fourth International Joint Conference on Artificial Intelligence.</i>
