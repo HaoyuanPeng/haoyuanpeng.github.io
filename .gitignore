@@ -10,3 +10,7 @@ Gemfile.lock
 vendor
 
 /.idea/workspace.xml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
