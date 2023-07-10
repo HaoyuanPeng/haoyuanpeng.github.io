@@ -9,11 +9,12 @@ relatedposts: false
 
 一亩三分地论坛上有网友总结了常见的机器学习八股文，链接见：
 
-1. https://www.1point3acres.com/bbs/thread-713903-1-1.html
-2. https://www.1point3acres.com/bbs/thread-714090-1-1.html
-3. https://www.1point3acres.com/bbs/thread-714558-1-1.html
+1. [https://www.1point3acres.com/bbs/thread-713903-1-1.html](https://www.1point3acres.com/bbs/thread-713903-1-1.html)
+2. [https://www.1point3acres.com/bbs/thread-714090-1-1.html](https://www.1point3acres.com/bbs/thread-714090-1-1.html)
+3. [https://www.1point3acres.com/bbs/thread-714558-1-1.html](https://www.1point3acres.com/bbs/thread-714558-1-1.html)
 
-现试答如下，欢迎批评指正。本文为第一部分，共三部分，每一部分与上述三个链接一一对应。
+
+现试答如下，欢迎批评指正。本文为第二部分，共三部分，每一部分与上述三个链接一一对应。
 
 #### **Linear Regression的基本假设是什么？**
 1. _自变量X和y线性相关_

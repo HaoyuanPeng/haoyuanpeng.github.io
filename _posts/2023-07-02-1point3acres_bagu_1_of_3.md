@@ -9,9 +9,9 @@ relatedposts: false
 
 一亩三分地论坛上有网友总结了常见的机器学习八股文，链接见：
 
-1. https://www.1point3acres.com/bbs/thread-713903-1-1.html
-2. https://www.1point3acres.com/bbs/thread-714090-1-1.html
-3. https://www.1point3acres.com/bbs/thread-714558-1-1.html
+1. [https://www.1point3acres.com/bbs/thread-713903-1-1.html](https://www.1point3acres.com/bbs/thread-713903-1-1.html)
+2. [https://www.1point3acres.com/bbs/thread-714090-1-1.html](https://www.1point3acres.com/bbs/thread-714090-1-1.html)
+3. [https://www.1point3acres.com/bbs/thread-714558-1-1.html](https://www.1point3acres.com/bbs/thread-714558-1-1.html)
 
 现试答如下，欢迎批评指正。本文为第一部分，共三部分，每一部分与上述三个链接一一对应。
 
@@ -83,7 +83,7 @@ _对于Lasso而言，因为将权重惩罚到了0，相当于降低了模型使�
 
 #### **为什么regularization用L1、L2，而不用L3、L4？**
 
-_暂无答案_
+_因为L1和L2的效果已经得到了充分验证，且L1能产生稀疏特征。相比较而言，L3和L4的计算复杂度更大，效果也没有充分验证。_
 
 #### **Precision and Recall, trade-off**
 
