@@ -68,7 +68,7 @@
 - title: Service
   type: list
   contents:
-    - <b>Conference Reviewer:</b> KDD-2023, EMNLP-2023
+    - <b>Conference Reviewer:</b> KDD-2023, EMNLP-2023, SDM-2024
     - <b>External Reviewer:</b> ACL-2023, ECAI-2023
 
 - title: Honors and Awards
@@ -90,6 +90,11 @@
 - title: Publications
   type: time_table
   contents:
+    - title: "VKIE: The Application of Key Information Extraction on Video Text"
+      year: 2023
+      institution: >
+        An, Siyu and Liu, Ye and <b>Peng, Haoyuan</b> and Yin, Di.
+        <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Industry Track.</i>
     - title: "OSAN: A One-Stage Alignment Network To Unify Multimodal Alignment and Unsupervised Domain Adaptation"
       year: 2023
       institution: >
