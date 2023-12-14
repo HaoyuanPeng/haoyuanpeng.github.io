@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 试答一亩三分地上的机器学习八股文 (3 / 3)
+title: 试答机器学习理论知识中的一些常见问题 (3 / 3)
 date: 2023-07-13 21:59:00 +0800
-description: 试答一亩三分地上的机器学习八股文 (3 / 3)
+description: 试答机器学习理论知识中的一些常见问题 (3 / 3)
 tags: [Machine Learning]
 relatedposts: false
 ---
 
-一亩三分地论坛上有网友总结了常见的机器学习八股文，链接见：
+有网友总结了机器学习理论知识中的一些常见问题，链接见：
 
 1. [https://www.1point3acres.com/bbs/thread-713903-1-1.html](https://www.1point3acres.com/bbs/thread-713903-1-1.html)
 2. [https://www.1point3acres.com/bbs/thread-714090-1-1.html](https://www.1point3acres.com/bbs/thread-714090-1-1.html)
