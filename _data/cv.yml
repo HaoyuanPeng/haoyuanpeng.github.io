@@ -17,16 +17,15 @@
       institution: Software School of Fudan University
       year: 2015 - 2018
       description:
-        - Under the supervision of Prof. Zheng Xiaoqing, I studied state-of-the-art NLP research. Our research interests mainly lie in pre-training word embeddings and dependency parsing. Our works are published in AAAI-2017 and AAAI-2018.
+        - I conducted cutting-edge NLP research under Prof. Zheng Xiaoqing's supervision, focusing on pre-training word embeddings and dependency parsing. Our works are published in AAAI-2017 and AAAI-2018.
         - I participated in the development of FudanDNN-NLP, a deep learning-based natural language processing tool.
-        - I was awarded a postgraduate freshman scholarship in 2015.
         - I was selected as an Outstanding Graduate in Shanghai in 2018.
     - title: Bachelor's degree, Computer Software Engineering
       institution: Software School of Fudan University
       year: 2011 - 2015
       description:
         - Under the supervision of Prof. Zheng Xiaoqing, I have been conducting research on natural language processing since 2013. Our work is published in IJCAI-2015.
-        - I have participated in Fudan's Undergraduate Experiment and Practice Opportunities Program from 2013 to 2015 under the guidance of Prof. Zheng Xiaoqing, and passed the thesis defence.
+        - I participated in Fudan's Undergraduate Experiment and Practice Opportunities Program from 2013 to 2015 under the guidance of Prof. Zheng Xiaoqing, and passed the thesis defence.
 
 - title: Experience
   type: time_table
@@ -84,9 +83,6 @@
     - year: 2018
       items:
         - Outstanding Graduate in Shanghai
-    - year: 2015
-      items:
-        - Postgraduate Freshman Scholarship
 
 - title: Publications
   type: time_table
