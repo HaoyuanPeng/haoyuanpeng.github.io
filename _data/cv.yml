@@ -17,15 +17,15 @@
       institution: Software School of Fudan University
       year: 2015 - 2018
       description:
-        - I conducted cutting-edge NLP research under Prof. Zheng Xiaoqing's supervision, focusing on pre-training word embeddings and dependency parsing. Our works are published in AAAI-2017 and AAAI-2018.
-        - I participated in the development of FudanDNN-NLP, a deep learning-based natural language processing tool.
-        - I was selected as an Outstanding Graduate in Shanghai in 2018.
+        - Conducted cutting-edge research in NLP under the mentorship of Professor Zheng Xiaoqing, with a focus on pre-training word embeddings and dependency parsing. Our work resulted in publications at conferences including AAAI-2017 and AAAI-2018.
+        - Played a significant role in the development of FudanDNN-NLP, a deep learning-based tool for NLP applications.
+        - Recognized as an Outstanding Graduate in Shanghai for the year 2018.
     - title: Bachelor's degree, Computer Software Engineering
       institution: Software School of Fudan University
       year: 2011 - 2015
       description:
-        - Under the supervision of Prof. Zheng Xiaoqing, I have been conducting research on natural language processing since 2013. Our work is published in IJCAI-2015.
-        - I participated in Fudan's Undergraduate Experiment and Practice Opportunities Program from 2013 to 2015 under the guidance of Prof. Zheng Xiaoqing, and passed the thesis defence.
+        - Engaged in NLP research under the guidance of Professor Zheng Xiaoqing since 2013. Our work resulted in a publication at IJCAI-2015.
+        - Successfully completed the Fudan Undergraduate Experiment and Practice Opportunities Program from 2013 to 2015, working closely with Professor Zheng Xiaoqing and passing the thesis defense.
 
 - title: Experience
   type: time_table
@@ -34,23 +34,26 @@
       institution: Learnable.AI, Shanghai, China
       year: 2023 - present
       description:
-        - Conduct research on enhancing the reasoning error detection capabilities of large language models (LLMs) through Chain-of-Thought (CoT) technology. Our work has been submitted to IJCAI 2024.
-        - Train large-scale models ranging from 7 billion to 70 billion parameters for real-world systems in the education domain. Applications include directly grading students' mathematical free-response answers and translating student responses into internally defined languages.
+        - Conduct research on enhancing the reasoning error detection capabilities of LLMs through Chain-of-Thought (CoT) technology. Our work has been submitted to IJCAI 2024.
+        - Train large-scale models ranging from 7B to 70B parameters for real-world systems in the education domain. Applications include directly grading students' mathematical free-response answers and translating student responses into internally defined languages.
         - Investigate OCR result correction algorithms for scenarios involving student responses, effectively addressing the challenge of distinguishing between student writing errors and OCR recognition errors.
     - title: Senior Researcher
       institution: Tencent, Shanghai, China
       year: 2021 - 2022
       description:
-        - <b>Yunzhi Media AI Platform</b> - Responsible for the text error correction, video labeling and key information extraction algorithms of multimodal content structuring in Tencent Yunzhi Media AI Platform, which has won the <i>CCBN 2021 Product Innovation Excellence Award</i>. The labeling algorithm I was responsible for won the 2nd place in the <i>2021 AIWIN Algorithm Technology Competition</i> without training with the competition training data.
-        - <b>Text Censorship</b> - Developing a text censorship system for private project clients. The system contains models and policies, and can address adversarial user inputs.
+        - Led the development of text error correction, video labeling, and key information extraction algorithms for multimodal content structuring in the <b>Yunzhi Media AI Platform</b> at Tencent. This platform received the CCBN 2021 Product Innovation Excellence Award. The labeling algorithm achieved 2nd place in the 2021 AIWIN Algorithm Technology Competition without utilizing the competition training data.
+        - Developed a <b>text censorship system</b> for private project clients, comprising models and policies capable of addressing adversarial user inputs.
+        - Recognized as an Outstanding Contributor (5-star performance) in performance evaluation.
 
     - title: Applied Researcher
       institution: Tencent, Shanghai, China
       year: 2018 - 2021
       description:
-        - <b>Intelligent Public Opinion Analysis System</b> - Responsible for the overall algorithm scheme and completed the development and optimization of multiple NLP algorithms. This product is customized for securities industry regulators.
-        - <b>Tencent Cloud NLP Products</b> - Responsible for the development of general text matching and Chinese spelling correction algorithms, which are deployed on Tencent Cloud and applied in several custom projects.
-        - <b>Tencent TI-ONE ML Platform</b> - Implemented multiple traditional ML algorithms and deep learning based NLP algorithms on Tencent TI-ONE ML Platform for users to train models on their custom data.
+        - Implemented traditional ML algorithms and deep learning-based NLP algorithms on the <b>Tencent TI-ONE ML Platform</b>, enabling users to train models on their custom data.
+        - Contributed to the development of text matching and Chinese spelling correction algorithms deployed as <b>Tencent Cloud NLP Products</b> and applied in various custom projects.
+        - Spearheaded the development and optimization of multiple NLP algorithms as part of the <b>Public Opinion Analysis System</b>, tailored for securities industry regulators.
+        - Received a 4-star performance rating in performance evaluations on 2 occasions.
+
 
     - title: Data Analyst Intern
       institution: eBay, Shanghai, China
@@ -60,10 +63,10 @@
 - title: Skills
   type: list
   contents:
-    - Following the cutting-edge research in the field of natural language processing. Experienced in publishing papers in top international academic conferences.
-    - Knowledge in full life cycle AI/ML with learning, inference, engineering and integration.
-    - Proficient in Python and able to write high-quality Python code.
-    - Familiar with mainstream deep learning frameworks, including pytorch, tensorflow 1.x and tensorflow 2.x.
+    - Proficient in conducting cutting-edge research in natural language processing, with a track record of publishing papers in top conferences..
+    - Experienced in all aspects of the full life cycle of AI/ML projects, including training, inference, engineering, and integration..
+    - Highly skilled in Python programming, capable of writing high-quality python codes.
+    - Familiar with mainstream deep learning frameworks, including PyTorch, TensorFlow 1.x, and TensorFlow 2.x.
 
 - title: Service
   type: list
