@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Haoyuan Peng - 彭浩源
-    - name: Date of Birth
-      value: 9th July 1994
     - name: Email
       value: phy_fdu@163.com
     - name: Homepage
@@ -17,43 +15,40 @@
       institution: Software School of Fudan University
       year: 2015 - 2018
       description:
-        - Conducted cutting-edge research in NLP under the mentorship of Professor Zheng Xiaoqing, with a focus on pre-training word embeddings and dependency parsing. Our work resulted in publications at conferences including AAAI-2017 and AAAI-2018.
-        - Played a significant role in the development of FudanDNN-NLP, a deep learning-based tool for NLP applications.
-        - Recognized as an Outstanding Graduate in Shanghai for the year 2018.
+        - Under the supervision of Professor Zheng Xiaoqing, my main research areas included Parsing and Word Embeddings, with results published at AAAI-17 and AAAI-18.
+        - Recognized as an Outstanding Graduate of Shanghai in 2018.
     - title: Bachelor's degree, Computer Software Engineering
       institution: Software School of Fudan University
       year: 2011 - 2015
       description:
-        - Engaged in NLP research under the guidance of Professor Zheng Xiaoqing since 2013. Our work resulted in a publication at IJCAI-2015.
-        - Successfully completed the Fudan Undergraduate Experiment and Practice Opportunities Program from 2013 to 2015, working closely with Professor Zheng Xiaoqing and passing the thesis defense.
+        - Under the supervision of Professor Zheng Xiaoqing, my main research area was Parsing, with results published at IJCAI-15.
+        - Completed the Fudan University Undergraduate Research Project (Denghui Program) under the supervision of Professor Zheng Xiaoqing.
 
 - title: Experience
   type: time_table
   contents:
     - title: Senior Algorithm Engineer
-      institution: Learnable.AI, Shanghai, China
-      year: 2023 - present
+      institution: ByteDance
+      year: 2024.04 - Present
       description:
-        - Conduct research on enhancing the reasoning error detection capabilities of LLMs through Chain-of-Thought (CoT) technology. Our work has been submitted to IJCAI 2024.
+        - Utilizing SFT, DPO and RAG of LLMs, I have built AI avatars for creators on Douyin that possess similar personas, knowledge scopes and speaking styles.
+        - Designed and developed a long-term memory framework that provides chatbots with memory capabilities beyond the conversational context window, including memory summarization, updating, retrieval, and evaluation.
+    - title: Senior Algorithm Engineer
+      institution: Learnable.AI, Shanghai, China
+      year: 2023.01 - 2024.04
+      description:
+        - Conduct research on enhancing the reasoning error detection capabilities of LLMs through Chain-of-Thought (CoT) technology, and co-first authored the research findings published at IJCAI-24.
         - Train large-scale models ranging from 7B to 70B parameters for real-world systems in the education domain. Applications include directly grading students' mathematical free-response answers and translating student responses into internally defined languages.
         - Investigate OCR result correction algorithms for scenarios involving student responses, effectively addressing the challenge of distinguishing between student writing errors and OCR recognition errors.
         - Evaluated as Excellent in the performance evaluation of probation period.
     - title: Senior Researcher
       institution: Tencent, Shanghai, China
-      year: 2021 - 2022
+      year: 2018.07 - 2022.12
       description:
-        - Led the development of multiple video structuring algorithms within the <b>Yunzhi Media AI Platform</b>, encompassing multimodal key information extraction, video tagging, as well as ASR and OCR result correction. The tagging algorithm achieved 2nd place in the 2021 AIWIN Algorithm Technology Competition without utilizing the competition training data.
-        - Developed a <b>text moderation system</b> for private project clients, comprising models and policies capable of addressing adversarial user inputs.
-        - Recognized as an 'Outstanding Contributor' (5-star performance) in performance evaluation.
-    - title: Applied Researcher
-      institution: Tencent, Shanghai, China
-      year: 2018 - 2021
-      description:
+        - Led the development of multiple video information extraction algorithms within the <b>Yunzhi Media AI Platform</b>, including key information extraction from video frames, video tagging, and error correction for ASR/OCR. The video tagging algorithm achieved the second place in the AIWIN 2021 Algorithm Technology Competition without using the competition's training data.
+        - Responsible for the development of NLP algorithms as part of the <b>Public Opinion Analysis System</b>, tailored for securities industry regulators.
         - Implemented traditional ML algorithms and deep learning-based NLP algorithms on the <b>Tencent TI-ONE ML Platform</b>, enabling users to train models on their custom data.
-        - Contributed to the development of text matching and Chinese spelling correction algorithms deployed as <b>Tencent Cloud NLP Products</b> and applied in various custom projects.
-        - Spearheaded the development and optimization of multiple NLP algorithms as part of the <b>Public Opinion Analysis System</b>, tailored for securities industry regulators.
-        - Received a 4-star performance rating in performance evaluations on 2 occasions.
-
+        - I have been rated as Five-Star Performance once and Four-Star Performance twice in performance assessment.
     - title: Data Analyst Intern
       institution: eBay, Shanghai, China
       year: 2014 - 2015
@@ -65,22 +60,22 @@
     - Proficient in conducting cutting-edge research in natural language processing, with a track record of publishing papers in top conferences.
     - Experienced in all aspects of the full life cycle of AI/ML projects, including training, inference, engineering, and integration.
     - Highly skilled in Python programming, capable of writing high-quality python codes.
-    - Familiar with mainstream deep learning frameworks, including PyTorch, TensorFlow 1.x, and TensorFlow 2.x.
+    - Familiar with Docker, capable of effectively deploying applications, managing versions, and migrating to enhance development efficiency.
 
 - title: Service
   type: list
   contents:
-    - <b>Conference Reviewer:</b> KDD-2023, EMNLP-2023, SDM-2024, COLING-2024, ACL-2024
-    - <b>External Reviewer:</b> ACL-2023, ECAI-2023
+    - <b>Conference Reviewer:</b> KDD-23, EMNLP-23, SDM-24, COLING-24, ACL-24, MM-24
+    - <b>External Reviewer:</b> ACL-23, ECAI-23
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2021
-      items: 
+      items:
         - Second Place of AIWIN 2021 Algorithm Technology Competition
     - year: 2020
-      items: 
+      items:
         - Tencent New Code Culture Award - Award for outstanding internal open source code projects
     - year: 2018
       items:
@@ -89,6 +84,11 @@
 - title: Publications
   type: time_table
   contents:
+    - title: "LLMs Can Find Mathematical Reasoning Mistakes by Pedagogical Chain-of-Thought"
+      year: 2024
+      institution: >
+        <u>Zhuoxuan Jiang, <b>Haoyuan Peng</b></u> (Equal Contribution), Shanshan Feng, Fan Li, Dongsheng Li.
+        <i>Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence.</i>
     - title: "VKIE: The Application of Key Information Extraction on Video Text"
       year: 2023
       institution: >

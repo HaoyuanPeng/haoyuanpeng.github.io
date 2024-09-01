@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-01-10
+date: 2024-04-29
 inline: true
 related_posts: false
 ---
 
-I joined learnable.ai as a senior algorithm engineer. :sparkles:
+I joined ByteDance as a senior algorithm engineer.

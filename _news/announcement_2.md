@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-12-12
+date: 2023-01-10
 inline: true
 related_posts: false
 ---
 
-I ended my 4 years and 6 months career at Tencent.
+I joined Learnable.AI as a senior algorithm engineer. :sparkles:
