@@ -31,15 +31,15 @@
       institution: ByteDance
       year: 2024.04 - Present
       description:
-        - Utilizing SFT, DPO and RAG of LLMs, I have built AI avatars for creators on Douyin that possess similar personas, knowledge scopes and speaking styles.
-        - Designed and developed a long-term memory framework that provides chatbots with memory capabilities beyond the conversational context window, including memory summarization, updating, retrieval, and evaluation.
+        - Utilizing SFT, DPO and RAG of LLMs, I build AI avatars for creators on Douyin that possess similar personas, knowledge scopes and speaking styles.
+        - Design and develop a long-term memory framework that provides chatbots with memory capabilities beyond the conversational context window, including memory summarization, updating, retrieval, and evaluation.
     - title: Senior Algorithm Engineer
       institution: Learnable.AI, Shanghai, China
       year: 2023.01 - 2024.04
       description:
-        - Conduct research on enhancing the reasoning error detection capabilities of LLMs through Chain-of-Thought (CoT) technology, and co-first authored the research findings published at IJCAI-24.
-        - Train large-scale models ranging from 7B to 70B parameters for real-world systems in the education domain. Applications include directly grading students' mathematical free-response answers and translating student responses into internally defined languages.
-        - Investigate OCR result correction algorithms for scenarios involving student responses, effectively addressing the challenge of distinguishing between student writing errors and OCR recognition errors.
+        - Conducted research on enhancing the reasoning error detection capabilities of LLMs through Chain-of-Thought (CoT) technology, and co-first authored the research findings published at IJCAI-24.
+        - Trained large-scale models ranging from 7B to 70B parameters for real-world systems in the education domain. Applications include directly grading students' mathematical free-response answers and translating student responses into internally defined languages.
+        - Investigated OCR result correction algorithms for scenarios involving student responses, effectively addressing the challenge of distinguishing between student writing errors and OCR recognition errors.
         - Evaluated as Excellent in the performance evaluation of probation period.
     - title: Senior Researcher
       institution: Tencent, Shanghai, China
@@ -48,7 +48,7 @@
         - Led the development of multiple video information extraction algorithms within the <b>Yunzhi Media AI Platform</b>, including key information extraction from video frames, video tagging, and error correction for ASR/OCR. The video tagging algorithm achieved the second place in the AIWIN 2021 Algorithm Technology Competition without using the competition's training data.
         - Responsible for the development of NLP algorithms as part of the <b>Public Opinion Analysis System</b>, tailored for securities industry regulators.
         - Implemented traditional ML algorithms and deep learning-based NLP algorithms on the <b>Tencent TI-ONE ML Platform</b>, enabling users to train models on their custom data.
-        - I have been rated as Five-Star Performance once and Four-Star Performance twice in performance assessment.
+        - Rated as Five-Star Performance once and Four-Star Performance twice in performance assessments.
     - title: Data Analyst Intern
       institution: eBay, Shanghai, China
       year: 2014 - 2015
