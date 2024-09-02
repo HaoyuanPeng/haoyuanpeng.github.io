@@ -40,7 +40,7 @@
         - Conducted research on enhancing the reasoning error detection capabilities of LLMs through Chain-of-Thought (CoT) technology, and co-first authored the research findings published at IJCAI-24.
         - Trained large-scale models ranging from 7B to 70B parameters for real-world systems in the education domain. Applications include directly grading students' mathematical free-response answers and translating student responses into internally defined languages.
         - Investigated OCR result correction algorithms for scenarios involving student responses, effectively addressing the challenge of distinguishing between student writing errors and OCR recognition errors.
-        - Evaluated as Excellent in the performance evaluation of probation period.
+        - Evaluated as Excellent in the performance assessment of probation period.
     - title: Senior Researcher
       institution: Tencent, Shanghai, China
       year: 2018.07 - 2022.12
