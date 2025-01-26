@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 千山也定能踏过——登山记录
+title: 山不在高，有仙则名
 date: 2025-01-26 11:13:00 +0800
 description: 自己的登山记录
 tags: [fun stuff]
